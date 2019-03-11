@@ -1,0 +1,8 @@
+{
+  "name": "yxrMall_admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yuxiaorun/yxrMall_admin.git",
+  "author": "yuxiaorun <752304557@qq.com>",
+  "license": "MIT"
+}
